@@ -1,0 +1,393 @@
+1) Introdução à Formação Master Developer
+Detalhamento sobre como a Formação Master Developer funciona.
+Aula #1.1 (Prática): Aula inaugural -> Finalizado
+
+
+2) Montando o ambiente de desenvolvimento Java
+Preparando o ambiente de desenvolvimento para codificar e executar os códigos mostrados nas aulas.
+Aula #2.1 (Prática): Instalando o JDK (Java Development Kit) -> Finalizado	
+Aula #2.2 (Prática): Opção de JDK para sistemas operacionais de 32 bits -> Finalizado
+Aula #2.3 (Prática): Instalando a IDE Eclipse - Finalizado	
+Aula #2.4 (Prática): Criando e executando seu primeiro projeto Java -> Finalizado	
+Aula #2.5 (Prática): Importando os códigos-fonte das aulas no Eclipse - Finalizado
+
+
+3) Conceitos de Lógica de Programação & Algoritmos
+Este módulo fala sobre conceitos importantes de lógica de programação, aplicados em projetos práticos usando a linguagem Java.
+Aula #3.1 (Prática): Introdução à lógica de programação - Finalizado
+Aula #3.2 (Prática): Como os programas são executados no computador -> Finalizado
+Aula #3.3 (Prática): Trabalhando com variáveis em Java -> Finalizado
+Aula #3.4 (Prática): Operadores aritméticos -> Finalizado
+Aula #3.5 (Prática): Operadores relacionais & lógicos -> Finalizado
+Aula #3.6 (Prática): Prioridades em operadores -> Finalizado
+Aula #3.7 (Prática): Estrutura de decisão if -> Finalizado
+Aula #3.8 (Prática): Estrutura de repetição while e do..while -> Finalizado
+Aula #3.9 (Prática): Estrutura de repetição for -> Finalizado
+Aula #3.10 (Prática): Executando um teste de mesa -> Finalizado	
+Aula #3.11 (Prática): Calculando a sequência de Fibonacci -> Finalizado
+Aula #3.12 (Prática): Agrupando dados em arrays -> Finalizado
+Aula #3.13 (Prática): Ordenação de arrays com Bubble Sort -> Finalizado
+Aula #3.14 (Prática): Usando o recurso de debug do Eclipse -> Finalizado
+Aula #3.15 (Prática): Criando e chamando métodos -> Finalizado
+Aula #3.16 (Prática): Criando um conversor de temperatura -> Finalizado
+Aula #3.17 (Prática): Entendendo e aplicando a recursividade -> Finalizado
+
+
+4) Jogo da Velha: Explorando os Fundamentos do Java
+Desenvolvimento de um jogo da velha completo, explorando conceitos do Java e da programação orientada a objetos.
+Aula #4.1 (Prática): Como o Java funciona -> Finalizado
+Aula #4.2 (Prática): Criando o projeto do Jogo da Velha -> Finalizado
+Aula #4.3 (Prática): Definindo as classes Board, Player e Move -> Finalizado
+Aula #4.4 (Prática): Criando as classes Board, Player e Move -> Finalizado
+Aula #4.5 (Prática): A interação com a interface gráfica -> Finalizado
+Aula #4.6 (Prática): Criando os comportamentos da classe Board -> Finalizado
+Aula #4.7 (Prática): Como os dados são armazenados em memória -> Finalizado
+Aula #4.8 (Prática): Por que a classe String é diferente das outras -> Finalizado
+Aula #4.9 (Prática): Aplicando o encapsulamento -> Finalizado
+Aula #4.10 (Prática): Definindo os construtores das classes -> Finalizado
+Aula #4.11 (Prática): Detectando se o jogador ganhou o jogo -> Finalizado
+Aula #4.12 (Prática): Criando os jogadores do jogo -> Finalizado
+Aula #4.13 (Prática): Detectando o próximo jogador a jogar -> Finalizado
+Aula #4.14 (Prática): Criando o loop do jogo -> Finalizado
+Aula #4.15 (Prática): Validando a jogada do jogador -> Finalizado
+Aula #4.16 (Prática): Checando se a jogada é permitida -> Finalizado
+Aula #4.17 (Prática): Entendendo o funcionamento do gerenciamento de exceções -> Finalizado
+Aula #4.18 (Prática): Compreendendo a stacktrace do Java -> Finalizado
+Aula #4.19 (Prática): Identificando erros em aplicações Java -> Finalizado
+Aula #4.20 (Prática): Criando a interface para gerenciamento de pontuação -> Finalizado
+Aula #4.21 (Prática): Como funcionam as classes wrappers e o autoboxing -> Finalizado
+Aula #4.22 (Prática): Lendo a pontuação do arquivo -> Finalizado
+Aula #4.23 (Prática): Gravando a pontuação no arquivo -> Finalizado
+
+
+5) Jogo da Forca: Solidificando os Conceitos do Java e Orientação a Objetos
+Desenvolvimento de um jogo da forca, onde são revistos alguns conceitos importantes da linguagem Java e outros conceitos mais avançados são introduzidos.
+Aula #5.1 (Prática): Iniciando o Projeto do Jogo da Forca -> Finalizado
+Aula #5.2 (Prática): Criando a classe Word -> Finalizado
+Aula #5.3 (Prática): Criando a classe Dictionary -> Finalizado
+Aula #5.4 (Prática): Implementando o design pattern Singleton -> Finalizado
+Aula #5.5 (Prática): Criando os métodos pra ler e mostrar dados	-> Finalizado
+Aula #5.6 (Prática): Formatando textos no Java -> Finalizado
+Aula #5.7 (Prática): Implementando o loop do jogo -> Finalizado
+Aula #5.8 (Prática): Adicionando um arquivo de configuração -> Finalizado
+Aula #5.9 (Prática): Fornecendo parâmetros via linha de comando -> Finalizado
+Aula #5.10 (Prática): Criando múltiplos dicionários -> Finalizado
+Aula #5.11 (Prática): Escolhendo o dicionário a ser usado -> Finalizado
+Aula #5.12 (Prática): O polimorfismo e a memória -> Finalizado
+Aula #5.13 (Prática): O tipo de dados enum -> Finalizado
+Aula #5.14 (Prática): Usando e abusando do Javadoc -> Finalizado
+
+
+6) APIs de Coleções & Datas
+Aprenda o que é de fato importante sobre duas das mais importantes APIs do Java: coleções e datas.
+Aula #6.1 (Prática): Collections API: Listas -> Finalizado
+Aula #6.2 (Prática): Collections API: Conjuntos	-> Finalizado
+Aula #6.3 (Prática): Collections API: Conjuntos com elementos ordenados	-> Finalizado
+Aula #6.4 (Prática): Collections API: Mapas -> Finalizado	
+Aula #6.5 (Prática): Representando datas com as classes Date e Calendar	-> Finalizado
+Aula #6.6 (Prática): Conceitos da New Date and Time API -> Finalizado
+
+
+7) Expressões Lambda & Stream API
+Este módulo é dedicado às Expressões Lambda, que trazem ao Java características de programação funcional. E para poder aproveitar ao máximo este recurso, este módulo também aborda o par perfeito das Expressões Lambda, que é a Stream API.
+Aula #7.1 (Prática): O paradigma de programação funcional e as expressões lambda -> Finalizado
+Aula #7.2 (Prática): Por que as expressões lambda passaram a fazer parte do Java? -> Finalizado	
+Aula #7.3 (Prática): As interfaces funcionais -> Finalizado	
+Aula #7.4 (Prática): A Stream API aplicada em coleções do Java -> Finalizado
+Aula #7.5 (Prática): Method references na Stream API
+Aula #7.6 (Prática): Exemplo de Stream API em coleções de objetos	
+Aula #7.7 (Prática): A interface Optional<>	
+Aula #7.8 (Prática): Closure em expressões lambda
+Aula #7.9 (Prática): Executando a operação de reduction em uma stream	
+Aula #7.10 (Prática): Um exemplo de concatenação de strings
+
+
+8) Estruturando páginas web com a linguagem HTML
+Conheça a linguagem HTML na prática, que é usada na criação da estrutura das páginas web
+Aula #8.1 (Prática): Fundamentos do Front-End -> Finalizado
+Aula #8.2 (Prática): Introdução ao HTML	-> Finalizado
+Aula #8.3 (Prática): Iniciando o HTML do BlueFood -> Finalizado
+Aula #8.4 (Prática): Criando as páginas do perfil usuário - (Parte 1/5)	-> Finalizado
+Aula #8.5 (Prática): Criando as páginas do perfil usuário - (Parte 2/5)	-> Finalizado
+Aula #8.6 (Prática): Criando as páginas do perfil usuário - (Parte 3/5)	-> Finalizado
+Aula #8.7 (Prática): Criando as páginas do perfil usuário - (Parte 4/5)	-> Finalizado
+Aula #8.8 (Prática): Criando as páginas do perfil usuário - (Parte 5/5)	-> Finalizado
+Aula #8.9 (Prática): Analisando as páginas do perfil restaurante -> Finalizado	
+Aula #8.10 (Prática): Formulários -> Finalizado
+
+
+9) Aplicando estilos em páginas HTML usando CSS
+Aprenda a usar na prática o CSS (Cascading Style Sheets) para deixar suas páginas HTML com um visual atrativo e incrível.	
+Aula #9.1 (Prática): Introdução ao CSS -> Finalizado
+Aula #9.2 (Prática): Iniciando o CSS do BlueFood -> Finalizado	
+Aula #9.3 (Prática): Formatando elementos de formulários -> Finalizado
+Aula #9.4 (Prática): Formatando tabelas	-> Finalizado
+Aula #9.5 (Prática): Alinhamento horizontal e ajustes -> Finalizado
+Aula #9.6 (Prática): Finalizando o CSS do BlueFood -> Finalizado
+
+
+10) A Linguagem JavaScript
+Entenda a linguagem JavaScript e aprenda os fundamentos do uso dessa linguagem incrível em páginas web.	
+Aula #10.1 (Prática): Introdução ao JavaScript -> Finalizado
+Aula #10.2 (Prática): JavaScript no BlueFood -> Finalizado
+Aula #10.3 (Prática): Validando formulários -> Finalizado
+
+
+11) Fundamentos da Programação para Web
+Conceitos importantes que você precisa saber antes de criar sistemas voltados para a web.	
+Aula #11.1 (Prática): Como funciona o modelo cliente-servidor -> Finalizado
+Aula #11.2 (Prática): Por dentro do protocolo HTTP -> Finalizado
+Aula #11.3 (Prática): Como funciona a criptografia no protocolo HTTPS -> Finalizado
+Aula #11.4 (Prática): Conhecendo a estrutura do formato XML -> Finalizado
+Aula #11.5 (Prática): O formato JSON e seu papel nos serviços web -> Finalizado
+
+
+12) BlueFood: Introdução aos primeiros conceitos sobre Spring
+Primeiro contato com o Spring Boot, Spring MVC e Spring Data JPA no desenvolvimento das primeiras funcionalidades da aplicação BlueFood.	
+Aula #12.1 (Prática): Instalando o STS (Spring Tools Suite) -> Finalizado
+Aula #12.2 (Prática): Criando o projeto do BlueFood e colocando pra rodar -> Finalizado	
+Aula #12.3 (Prática): Instalando o Lombok -> Finalizado
+Aula #12.4 (Prática): Importando as telas do protótipo para dentro do projeto -> Finalizado
+Aula #12.5 (Prática): Preparando a tela de login -> Finalizado
+Aula #12.6 (Prática): Criando um layout genérico das páginas -> Finalizado	
+Aula #12.7 (Prática): Nasce a primeira entidade: Cliente -> Finalizado	
+Aula #12.8 (Prática): Mapeando a entidade para o banco de dados -> Finalizado
+Aula #12.9 (Prática): Montando a tela de cadastro de cliente -> Finalizado
+Aula #12.10 (Prática): Instalando o MySQL e o MySQL Workbench -> Finalizado	
+Aula #12.11 (Prática): Persistindo o cliente no banco de dados -> Finalizado
+Aula #12.12 (Prática): Gerenciamento de entidades pela JPA -> Finalizado 	
+Aula #12.13 (Prática): Modo de criação vs Modo de edição -> Finalizado	
+Aula #12.14 (Prática): Definindo critérios de validação com a Bean Validation API -> Finalizado	
+Aula #12.15 (Prática): Validando os campos do cliente -> Finalizado
+Aula #12.16 (Prática): Mostrando mensagens de erro de validação -> Finalizado
+Aula #12.17 (Prática): Restringindo campos numéricos -> Finalizado
+Aula #12.18 (Prática): Criando uma validação de negócio	-> Finalizado
+Aula #12.19 (Prática): Criptografando a senha do cliente -> Finalizado
+
+
+13) BlueFood: Upload, Spring Security e outras funcionalidades
+Mais funcionalidades do BlueFood e autenticação e autorização com Spring Security.	
+Aula #13.1 (Prática): Preparando o cadastro do restaurante -> Finalizado	
+Aula #13.2 (Prática): Criando a categoria de restaurante -> Finalizado
+Aula #13.3 (Prática): Montando uma caixa de seleção dinâmica de categorias -> Finalizado
+Aula #13.4 (Prática): Preparando o upload de imagens para o servidor -> Finalizado
+Aula #13.5 (Prática): Executando o upload do logotipo do restaurante -> Finalizado
+Aula #13.6 (Prática): Adicionando validação no tipo de arquivo de upload -> Finalizado	
+Aula #13.7 (Prática): Finalizando os cadastros de cliente e restaurante -> Finalizado
+Aula #13.8 (Prática): Inserindo dados de teste quando o servidor inicia	-> Finalizado
+Aula #13.9 (Prática): Configurando a segurança da aplicação - (Parte 1/3) -> Finalizado	
+Aula #13.10 (Prática): Configurando a segurança da aplicação - (Parte 2/3) -> Finalizado	
+Aula #13.11 (Prática): Configurando a segurança da aplicação - (Parte 3/3) -> Finalizado
+Aula #13.12 (Prática): Criando os itens do cardápio do restaurante -> Finalizado	
+Aula #13.13 (Prática): Home do cliente: alteração de dados e logout -> Finalizado
+Aula #13.14 (Prática): Mostrando as imagens de categorias cadastradas -> Finalizado
+Aula #13.15 (Prática): Mostrando o usuário logado no cabeçalho da página -> Finalizado	
+Aula #13.16 (Prática): Buscando restaurantes - (Parte 1/5) -> Finalizado	
+Aula #13.17 (Prática): Buscando restaurantes - (Parte 2/5) -> Finalizado
+Aula #13.18 (Prática): Buscando restaurantes - (Parte 3/5) -> Finalizado	
+Aula #13.19 (Prática): Buscando restaurantes - (Parte 4/5) -> Finalizado
+Aula #13.20 (Prática): Buscando restaurantes - (Parte 5/5) -> Finalizado
+Aula #13.21 (Prática): Escolhendo os itens do cardápio do restaurante - (Parte 1/3) -> Finalizado
+Aula #13.22 (Prática): Escolhendo os itens do cardápio do restaurante - (Parte 2/3) -> Finalizado
+Aula #13.23 (Prática): Escolhendo os itens do cardápio do restaurante - (Parte 3/3) -> Finalizado
+
+
+14) BlueFood: Implementação das últimas funcionalidades
+Spring REST, web services e finalização de toda a implementação da aplicação BlueFood.	
+Aula #14.1 (Prática): Implementando o carrinho de compras - (Parte 1/3) -> Finalizado
+Aula #14.2 (Prática): Implementando o carrinho de compras - (Parte 2/3) -> Finalizado
+Aula #14.3 (Prática): Implementando o carrinho de compras - (Parte 3/3) -> Finalizado
+Aula #14.4 (Prática): Criando as entidades de Pedido e ItemPedido -> Finalizado	
+Aula #14.5 (Prática): Criando o pedido com base nos itens do carrinho -> Finalizado	
+Aula #14.6 (Prática): Visualizando o pedido criado -> Finalizado	
+Aula #14.7 (Prática): Refazendo um pedido anterior -> Finalizado	
+Aula #14.8 (Prática): Listando os pedidos de um cliente	-> Finalizado
+Aula #14.9 (Prática): Criando um web service de pagamento - (Parte 1/2) -> Finalizado
+Aula #14.10 (Prática): Criando um web service de pagamento - (Parte 2/2) -> Finalizado
+Aula #14.11 (Prática): Acessando o web service de pagamento -> 	Finalizado
+Aula #14.12 (Prática): Gravando o pagamento do pedido -> Finalizado
+Aula #14.13 (Prática): Customizando páginas de erro -> Finalizado	
+Aula #14.14 (Prática): Logout e alteração de dados do restaurante -> Finalizado	
+Aula #14.15 (Prática): Cadastrando os itens do cardápio do restaurante	Finalizado
+Aula #14.16 (Prática): Listando os pedidos do restaurante -> Finalizado	
+Aula #14.17 (Prática): Manipulando o status de um pedido -> Finalizado	
+Aula #14.18 (Prática): Criando o relatório de pedidos -> Finalizado	
+Aula #14.19 (Prática): Criando o relatório de faturamento de itens de pedidos -> Finalizado
+Aula #14.20 (Prática): Resolvendo bug: segurança -> Finalizado	
+Aula #14.21 (Prática): Resolvendo bug: cadastro de restaurante -> Finalizado
+
+
+15) Hospedando o BlueFood na Internet na Plataforma Amazon Web Services (AWS)
+Este módulo mostra como instalar o Bluefood para funcionar na internet.	
+Aula #15.1 (Prática): Criando sua conta no AWS	-> Finalizado
+Aula #15.2 (Prática): Criando o ambiente para execução do BlueFood -> Finalizado	
+Aula #15.3 (Prática): Definindo diferentes profiles no Spring -> Finalizado
+Aula #15.4 (Prática): Configurando o banco de dados no AWS -> Finalizado	
+Aula #15.5 (Prática): Preparando a aplicação para se adequar à hospedagem -> Finalizado
+Aula #15.6 (Prática): Instalando o BlueFood no AWS -> Finalizado
+Aula #15.7 (Prática): Criando os diretórios das imagens -> Finalizado
+
+
+16) Hospedando o BlueFood na Internet na Plataforma Heroku
+Neste módulo você vai aprender a publicar a aplicação BlueFood em uma das plataformas mais usadas no mundo de hospedagem, o Heroku.
+Aula #16.1 (Prática): Criando sua conta no Heroku
+Aula #16.2 (Prática): Criando o app do BlueFood no Heroku	
+Aula #16.3 (Prática): Preparando o projeto para o deploy	
+Aula #16.4 (Prática): Criando o banco de dados PostgreSQL no Heroku	
+Aula #16.5 (Prática): Baixando e instalando o Git Bash	
+Aula #16.6 (Prática): Baixando e instalando o Heroku CLI	
+Aula #16.7 (Prática): Realizando o deploy da aplicação BlueFood no Heroku	
+Aula #16.8 (Prática): Arrumando as imagens da aplicação	
+Aula #16.9 (Prática): Logs e considerações finais
+
+
+17) Criando os testes unitários do BlueFood
+Módulo sobre a criação de testes unitários no Spring, para testar funcionalidades do back-end da aplicação.	
+Aula #17.1 (Prática): Preparando o ambiente para a escrita dos testes	
+Aula #17.2 (Prática): Criando testes para repositórios	
+Aula #17.3 (Prática): Criando testes para respositórios (outra forma de fazer)	
+Aula #17.4 (Prática): Criando testes para services	
+Aula #17.5 (Prática): Criando testes para requisições web
+
+
+18) BlueTasks: Introdução ao React & Conceitos de JavaScript
+Neste módulo você vai entender como funciona o React e vai ter um reforço em alguns aspectos da linguagem JavaScript, além de preparar o ambiente de desenvolvimento para começar a criar o front-end da aplicação BlueTasks usando React.
+Aula #18.1 (Prática): Introdução ao BlueTasks	
+Aula #18.2 (Prática): Instalando o Visual Studio Code	
+Aula #18.3 (Prática): Instalando o React Developer Tools no seu navegador	
+Aula #18.4 (Prática): Instalando o Node.js	
+Aula #18.5 (Prática): Criando o projeto React	
+Aula #18.6 (Prática): Entendendo o React em linhas gerais	
+Aula #18.7 (Prática): Uma breve história do JavaScript - (Parte 1/2)
+Aula #18.8 (Prática): Uma breve história do JavaScript - (Parte 2/2)
+Aula #18.9 (Prática): Conceitos de JavaScript #1: variáveis e tipos de dados	
+Aula #18.10 (Prática): Conceitos de JavaScript #2: arrays e objetos	
+Aula #18.11 (Prática): Conceitos de JavaScript #3: spread operator	
+Aula #18.12 (Prática): Conceitos de JavaScript #4: funções e classes	
+Aula #18.13 (Prática): Conceitos de JavaScript #5: programação funcional	
+Aula #18.14 (Prática): Conceitos de JavaScript #6: desestruturação de arrays e objetos	
+Aula #18.15 (Prática): Debug de aplicações React no Visual Studio Code
+
+
+19) BlueTasks: Implementação do Front-End com React & Bootstrap
+Aqui você vai implementar todas as funcionalidades da aplicação BlueTasks usando React e Bootstrap.	
+Aula #19.1 (Prática): Separando as telas da aplicação em componentes	
+Aula #19.2 (Prática): Integrando o Bootstrap na aplicação	
+Aula #19.3 (Prática): Criando a barra de navegação	
+Aula #19.4 (Prática): Deixando a barra de navegação funcional e atrativa	
+Aula #19.5 (Prática): Processando os cliques nos itens da barra de navegação	
+Aula #19.6 (Prática): Criando a tabela com a listagem das tarefas	
+Aula #19.7 (Prática): Exibindo as tarefas cadastradas na tabela	
+Aula #19.8 (Prática): Excluindo tarefas	
+Aula #19.9 (Prática): Confirmando a exclusão e exibindo um Toast	
+Aula #19.10 (Prática): Mostrando uma mensagem quando não existem tarefas	
+Aula #19.11 (Prática): Atualizando o status de uma tarefa	
+Aula #19.12 (Prática): Riscando tarefas já realizadas	
+Aula #19.13 (Prática): Redirecionando para a tela de criação de tarefas	
+Aula #19.14 (Prática): Criando o formulário de cadastro de tarefa	
+Aula #19.15 (Prática): Submetendo o formulário e fazendo redirect para a lista de tarefas	
+Aula #19.16 (Prática): Editando uma tarefa já cadastrada	
+Aula #19.17 (Prática): Alterando o nome do botão de acordo com a funcionalidade	
+Aula #19.18 (Prática): Cancelando o cadastro ou edição de uma tarefa
+
+
+20) BlueTasks: Implementação do Back-End com Spring Boot
+Neste módulo é a vez do back-end da aplicação BlueTasks. Você vai implementar todas as funcionalidades necessárias usando Java e Spring Boot.	
+Aula #20.1 (Prática): Criando o projeto no Spring Boot	
+Aula #20.2 (Prática): Configurando o banco de dados da aplicação	
+Aula #20.3 (Prática): Criando as entidades e os repositórios	
+Aula #20.4 (Prática): Criando os dados de teste	
+Aula #20.5 (Prática): Expondo os repositórios via web services	
+Aula #20.6 (Prática): Expondo o ID das tarefas via web services	
+Aula #20.7 (Prática): Removendo a exportação do repositório de usuários	
+Aula #20.8 (Prática): Adicionando as anotações do Java Validator nas entidades	
+Aula #20.9 (Prática): Configurando o processo de validação para retornar os erros corretamente	
+Aula #20.10 (Prática): Mudando a forma como os erros são retornados	
+Aula #20.11 (Prática): Validando tarefas duplicadas	
+Aula #20.12 (Prática): Logging no Spring Boot	
+Aula #20.13 (Prática): Configurando o CORS na aplicação	
+Aula #20.14 (Prática): Começando a configurar a segurança da aplicação	
+Aula #20.15 (Prática): Conhecendo a arquitetura da segurança usando JWT	
+Aula #20.16 (Prática): Criando o AuthenticationFilter - (Parte 1/2)
+Aula #20.17 (Prática): Criando o AuthorizationFilter - (Parte 2/2)
+Aula #20.18 (Prática): Configurando as diretrizes de segurança	
+Aula #20.19 (Prática): Testando o mecanismo de segurança da aplicação	
+Aula #20.20 (Prática): Retornando apenas as tarefas de um usuário específico	
+Aula #20.21 (Prática): Atribuindo um usuário a uma tarefa	
+Aula #20.22 (Prática): Escondendo informações da tarefa
+
+
+21) BlueTasks: Integrando Front-End & Back-End
+Depois de implementar o front-end (em React) e o back-end (em Java), chegou a hora de unir as duas partes e finalizar o desenvolvimento da aplicação BlueTasks.	
+Aula #21.1 (Prática): Criando o componente Alert	
+Aula #21.2 (Prática): Criando o formulário de login	
+Aula #21.3 (Prática): Adicionando constantes via arquivos .dev & constants.js	
+Aula #21.4 (Prática): Executando o serviço de login no back-end	
+Aula #21.5 (Prática): Controlando o acesso às páginas	
+Aula #21.6 (Prática): Exibindo um spinner para indicar processamento	
+Aula #21.7 (Prática): Trazendo a lista de tarefas do back-end	
+Aula #21.8 (Prática): Formatando as datas da tarefas	
+Aula #21.9 (Prática): Excluindo as tarefas no back-end	
+Aula #21.10 (Prática): Carregando uma tarefa do back-end	
+Aula #21.11 (Prática): Alterando os dados de uma tarefa no back-end	
+Aula #21.12 (Prática): Colocando um spinner no botão durante a gravação de uma tarefa	
+Aula #21.13 (Prática): Testando a gravação de novas tarefas no back-end	
+Aula #21.14 (Prática): Fazendo o botão de logout aparecer	
+Aula #21.15 (Prática): Implementando a funcionalidade de logout	
+Aula #21.16 (Prática): Exibindo o nome do usuário logado na NavBar	
+Aula #21.17 (Prática): Corrigindo os bugs que ficaram para trás	
+Aula #21.18 (Prática): Preparando o front-end e back-end para publicação
+
+
+22) BlueTasks: Front-End Usando React Hooks
+Neste módulo você vai aprender a usar a API de Hooks do React e vai migrar todo o front-end do BlueTasks para o uso de hooks.	
+Aula #22.1 (Prática): Introdução do uso dos Hooks no React: useState e useEffect	
+Aula #22.2 (Prática): Criando um hook customizado	
+Aula #22.3 (Prática): Mais um exemplo de hook: capurando a movimentação do mouse na tela	
+Aula #22.4 (Prática): Mais um exemplo de hook: contador numérico	
+Aula #22.5 (Prática): Compartilhando estados com o useContext	
+Aula #22.6 (Prática): Criando o hook useAuth para autenticação - (Parte 1/2)	
+Aula #22.7 (Prática): Criando o hook useAuth para autenticação - (Parte 2/2)
+Aula #22.8 (Prática): Criando o contexto de autenticação	
+Aula #22.9 (Prática): Formulário de login usando hooks	
+Aula #22.10 (Prática): Criando o hook useTasks para buscar as tarefas no back-end	
+Aula #22.11 (Prática): Listagem de tarefas usando hooks	
+Aula #22.12 (Prática): Criando o hook useNavBarItems para gerenciar a NavBar	
+Aula #22.13 (Prática): Adaptando a NavBar para o uso de hooks	
+Aula #22.14 (Prática): Exclusão de tarefas usando hooks	
+Aula #22.15 (Prática): Alteração de status de uma tarefa usando hooks	
+Aula #22.16 (Prática): Cadastro de uma nova tarefa usando hooks	
+Aula #22.17 (Prática): Atualizando uma tarefa usando hooks	
+Aula #22.18 (Prática): Finalizando a implementação do BlueTasks
+
+
+23) Clean Code: Deixando seu Código Limpo e com Alta Qualidade
+Você vai aprender, na prática, estratégias voltadas ao Clean Code, a fim de que seus códigos sejam sempre limpos e fácies de manter.
+Em breve
+
+
+24) As habilidades que você deve desenvolver
+Conheça as habilidades que vão levar você ao próximo nível.	
+Aula #24.1 (Prática): As habilidades que vão te levar ao sucesso - (Parte 1/3)	
+Aula #24.2 (Prática): As habilidades que vão te levar ao sucesso - (Parte 2/3)	
+Aula #24.3 (Prática): As habilidades que vão te levar ao sucesso - (Parte 3/3)	
+Aula #24.4 (Prática): A importância do inglês para a programação a para a sua vida	
+Aula #24.5 (Prática): 7 dicas pra você aplicar no seu dia a dia e driblar a falta do inglês
+
+
+25) Mercado de trabalho
+Um apanhado geral sobre mercado de trabalho e dicas importantes sobre como se destacar.	
+Aula #25.1 (Prática): Como entrar no mercado de trabalho de programação - (Parte 1/3)	
+Aula #25.2 (Prática): Como entrar no mercado de trabalho de programação - (Parte 2/3)	
+Aula #25.3 (Prática): Como entrar no mercado de trabalho de programação - (Parte 3/3)	
+Aula #25.4 (Prática): Como montar um currículo de destaque	
+Aula #25.5 (Prática): Como dominar algo que você ainda não conhece	
+Aula #25.6 (Prática): Como é trabalhar em uma multinacional	
+Aula #25.7 (Prática): O principal atalho para entrar em empresas multinacionais
+
+
+26) Outros Conteúdos
+Módulo que agrupa outros conteúdos relevantes da Formação.	
+Aula #26.1 (Prática): Gravação Webinar - A História dos Fundadores da Softblue	
+Aula #26.2 (Prática): Bate-papo com Tadeu Espindola sobre como crescer na carreira de programador	
+Aula #26.3 (Prática): Gravação Webinar - Como se preparar para ter uma carreira no exterior

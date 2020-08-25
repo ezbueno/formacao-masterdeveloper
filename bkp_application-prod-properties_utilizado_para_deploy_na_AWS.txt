@@ -1,0 +1,21 @@
+server.port=5000
+
+#======================
+
+#Configurações para o PostgreSQL
+#======================
+#= JPA / HIBERNATE
+#======================
+spring.jpa.hibernate.ddl-auto=create
+
+#======================
+#= DATA SOURCE
+#======================
+spring.datasource.url=jdbc:postgresql://aa1st6jo832pjfd.c9zzlkkqnosp.sa-east-1.rds.amazonaws.com:5432/ebdb?useSSL=false&useTimezone=true&serverTimezone=America/Sao_Paulo
+spring.datasource.username=bluefood
+spring.datasource.password=bluefood
+
+#======================
+bluefood.files.logotipo=/home/webapp/sbfood-files/logotipos
+bluefood.files.comida=/home/webapp/sbfood-files/comidas
+bluefood.files.categoria=/home/webapp/sbfood-files/categorias
