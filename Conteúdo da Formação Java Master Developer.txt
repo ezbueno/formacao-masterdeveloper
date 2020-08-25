@@ -230,21 +230,21 @@ Aula #15.7 (Prática): Criando os diretórios das imagens -> Finalizado
 
 16) Hospedando o BlueFood na Internet na Plataforma Heroku
 Neste módulo você vai aprender a publicar a aplicação BlueFood em uma das plataformas mais usadas no mundo de hospedagem, o Heroku.
-Aula #16.1 (Prática): Criando sua conta no Heroku
-Aula #16.2 (Prática): Criando o app do BlueFood no Heroku	
-Aula #16.3 (Prática): Preparando o projeto para o deploy	
-Aula #16.4 (Prática): Criando o banco de dados PostgreSQL no Heroku	
-Aula #16.5 (Prática): Baixando e instalando o Git Bash	
-Aula #16.6 (Prática): Baixando e instalando o Heroku CLI	
-Aula #16.7 (Prática): Realizando o deploy da aplicação BlueFood no Heroku	
-Aula #16.8 (Prática): Arrumando as imagens da aplicação	
-Aula #16.9 (Prática): Logs e considerações finais
+Aula #16.1 (Prática): Criando sua conta no Heroku -> Finalizado
+Aula #16.2 (Prática): Criando o app do BlueFood no Heroku -> Finalizado	
+Aula #16.3 (Prática): Preparando o projeto para o deploy -> Finalizado	
+Aula #16.4 (Prática): Criando o banco de dados PostgreSQL no Heroku -> Finalizado	
+Aula #16.5 (Prática): Baixando e instalando o Git Bash -> Finalizado	
+Aula #16.6 (Prática): Baixando e instalando o Heroku CLI -> Finalizado	
+Aula #16.7 (Prática): Realizando o deploy da aplicação BlueFood no Heroku -> Finalizado	
+Aula #16.8 (Prática): Arrumando as imagens da aplicação	-> Finalizado
+Aula #16.9 (Prática): Logs e considerações finais -> Finalizado
 
 
 17) Criando os testes unitários do BlueFood
 Módulo sobre a criação de testes unitários no Spring, para testar funcionalidades do back-end da aplicação.	
-Aula #17.1 (Prática): Preparando o ambiente para a escrita dos testes	
-Aula #17.2 (Prática): Criando testes para repositórios	
+Aula #17.1 (Prática): Preparando o ambiente para a escrita dos testes -> Finalizado	
+Aula #17.2 (Prática): Criando testes para repositórios -> Finalizado	
 Aula #17.3 (Prática): Criando testes para respositórios (outra forma de fazer)	
 Aula #17.4 (Prática): Criando testes para services	
 Aula #17.5 (Prática): Criando testes para requisições web
