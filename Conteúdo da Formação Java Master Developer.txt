@@ -245,9 +245,9 @@ Aula #16.9 (Prática): Logs e considerações finais -> Finalizado
 Módulo sobre a criação de testes unitários no Spring, para testar funcionalidades do back-end da aplicação.	
 Aula #17.1 (Prática): Preparando o ambiente para a escrita dos testes -> Finalizado	
 Aula #17.2 (Prática): Criando testes para repositórios -> Finalizado	
-Aula #17.3 (Prática): Criando testes para respositórios (outra forma de fazer)	
-Aula #17.4 (Prática): Criando testes para services	
-Aula #17.5 (Prática): Criando testes para requisições web
+Aula #17.3 (Prática): Criando testes para respositórios (outra forma de fazer) -> Finalizado
+Aula #17.4 (Prática): Criando testes para services -> Finalizado	
+Aula #17.5 (Prática): Criando testes para requisições web -> Finalizado
 
 
 18) BlueTasks: Introdução ao React & Conceitos de JavaScript
