@@ -6,7 +6,7 @@
 	<body>
 		<div layout:fragment="content">
 			<div>
-				<img th:src="@{/images/logotipo/} + ${restaurante.logotipo}" id="imgRestauranteOpcao"><br /><br />
+				<img th:src="@{/images/logotipo/} + ${restaurante.logotipo}" id="imgRestauranteBusca"><br /><br />
 				<span id="restauranteOpcaoTitulo" th:text="${restaurante.nome}"></span><br />
 				<span id="restauranteOpcaoCategoria" th:text="${restaurante.categoriasAsText}"></span><br />
 				<span id="restauranteOpcaoTempo" th:text="'Tempo médio de entrega: ' + ${restaurante.calcularTempoEntrega(cep)} + 'm'"></span><br />
