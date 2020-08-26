@@ -9,5 +9,4 @@ public class MasterdeveloperSbpayApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MasterdeveloperSbpayApplication.class, args);
 	}
-
 }
