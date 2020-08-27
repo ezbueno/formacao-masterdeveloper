@@ -252,16 +252,16 @@ Aula #17.5 (Prática): Criando testes para requisições web -> Finalizado
 
 18) BlueTasks: Introdução ao React & Conceitos de JavaScript
 Neste módulo você vai entender como funciona o React e vai ter um reforço em alguns aspectos da linguagem JavaScript, além de preparar o ambiente de desenvolvimento para começar a criar o front-end da aplicação BlueTasks usando React.
-Aula #18.1 (Prática): Introdução ao BlueTasks	
-Aula #18.2 (Prática): Instalando o Visual Studio Code	
-Aula #18.3 (Prática): Instalando o React Developer Tools no seu navegador	
-Aula #18.4 (Prática): Instalando o Node.js	
-Aula #18.5 (Prática): Criando o projeto React	
-Aula #18.6 (Prática): Entendendo o React em linhas gerais	
-Aula #18.7 (Prática): Uma breve história do JavaScript - (Parte 1/2)
-Aula #18.8 (Prática): Uma breve história do JavaScript - (Parte 2/2)
-Aula #18.9 (Prática): Conceitos de JavaScript #1: variáveis e tipos de dados	
-Aula #18.10 (Prática): Conceitos de JavaScript #2: arrays e objetos	
+Aula #18.1 (Prática): Introdução ao BlueTasks -> Finalizado
+Aula #18.2 (Prática): Instalando o Visual Studio Code -> Finalizado
+Aula #18.3 (Prática): Instalando o React Developer Tools no seu navegador -> Finalizado	
+Aula #18.4 (Prática): Instalando o Node.js -> Finalizado	
+Aula #18.5 (Prática): Criando o projeto React -> Finalizado
+Aula #18.6 (Prática): Entendendo o React em linhas gerais -> Finalizado	
+Aula #18.7 (Prática): Uma breve história do JavaScript - (Parte 1/2) -> Finalizado
+Aula #18.8 (Prática): Uma breve história do JavaScript - (Parte 2/2) -> Finalizado
+Aula #18.9 (Prática): Conceitos de JavaScript #1: variáveis e tipos de dados -> Finalizado	
+Aula #18.10 (Prática): Conceitos de JavaScript #2: arrays e objetos -> Finalizado
 Aula #18.11 (Prática): Conceitos de JavaScript #3: spread operator	
 Aula #18.12 (Prática): Conceitos de JavaScript #4: funções e classes	
 Aula #18.13 (Prática): Conceitos de JavaScript #5: programação funcional	
