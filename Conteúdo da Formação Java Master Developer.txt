@@ -260,20 +260,20 @@ Aula #18.5 (Prática): Criando o projeto React -> Finalizado
 Aula #18.6 (Prática): Entendendo o React em linhas gerais -> Finalizado	
 Aula #18.7 (Prática): Uma breve história do JavaScript - (Parte 1/2) -> Finalizado
 Aula #18.8 (Prática): Uma breve história do JavaScript - (Parte 2/2) -> Finalizado
-Aula #18.9 (Prática): Conceitos de JavaScript #1: variáveis e tipos de dados -> Finalizado	
-Aula #18.10 (Prática): Conceitos de JavaScript #2: arrays e objetos -> Finalizado
-Aula #18.11 (Prática): Conceitos de JavaScript #3: spread operator	
-Aula #18.12 (Prática): Conceitos de JavaScript #4: funções e classes	
-Aula #18.13 (Prática): Conceitos de JavaScript #5: programação funcional	
-Aula #18.14 (Prática): Conceitos de JavaScript #6: desestruturação de arrays e objetos	
-Aula #18.15 (Prática): Debug de aplicações React no Visual Studio Code
+Aula #18.9 (Prática): Conceitos de JavaScript #1: Variáveis e tipos de dados -> Finalizado	
+Aula #18.10 (Prática): Conceitos de JavaScript #2: Arrays e objetos -> Finalizado
+Aula #18.11 (Prática): Conceitos de JavaScript #3: Spread operator -> Finalizado	
+Aula #18.12 (Prática): Conceitos de JavaScript #4: Funções e classes -> Finalizado	
+Aula #18.13 (Prática): Conceitos de JavaScript #5: Programação funcional -> Finalizado	
+Aula #18.14 (Prática): Conceitos de JavaScript #6: Desestruturação de arrays e objetos -> Finalizado	
+Aula #18.15 (Prática): Debug de aplicações React no Visual Studio Code -> Finalizado
 
 
 19) BlueTasks: Implementação do Front-End com React & Bootstrap
 Aqui você vai implementar todas as funcionalidades da aplicação BlueTasks usando React e Bootstrap.	
-Aula #19.1 (Prática): Separando as telas da aplicação em componentes	
-Aula #19.2 (Prática): Integrando o Bootstrap na aplicação	
-Aula #19.3 (Prática): Criando a barra de navegação	
+Aula #19.1 (Prática): Separando as telas da aplicação em componentes -> Finalizado
+Aula #19.2 (Prática): Integrando o Bootstrap na aplicação -> Finalizado	Finalizado
+Aula #19.3 (Prática): Criando a barra de navegação -> Finalizado	
 Aula #19.4 (Prática): Deixando a barra de navegação funcional e atrativa	
 Aula #19.5 (Prática): Processando os cliques nos itens da barra de navegação	
 Aula #19.6 (Prática): Criando a tabela com a listagem das tarefas	
