@@ -274,15 +274,15 @@ Aqui você vai implementar todas as funcionalidades da aplicação BlueTasks usa
 Aula #19.1 (Prática): Separando as telas da aplicação em componentes -> Finalizado
 Aula #19.2 (Prática): Integrando o Bootstrap na aplicação -> Finalizado	Finalizado
 Aula #19.3 (Prática): Criando a barra de navegação -> Finalizado	
-Aula #19.4 (Prática): Deixando a barra de navegação funcional e atrativa	
-Aula #19.5 (Prática): Processando os cliques nos itens da barra de navegação	
-Aula #19.6 (Prática): Criando a tabela com a listagem das tarefas	
-Aula #19.7 (Prática): Exibindo as tarefas cadastradas na tabela	
-Aula #19.8 (Prática): Excluindo tarefas	
-Aula #19.9 (Prática): Confirmando a exclusão e exibindo um Toast	
-Aula #19.10 (Prática): Mostrando uma mensagem quando não existem tarefas	
-Aula #19.11 (Prática): Atualizando o status de uma tarefa	
-Aula #19.12 (Prática): Riscando tarefas já realizadas	
+Aula #19.4 (Prática): Deixando a barra de navegação funcional e atrativa -> Finalizado	
+Aula #19.5 (Prática): Processando os cliques nos itens da barra de navegação -> Finalizado	
+Aula #19.6 (Prática): Criando a tabela com a listagem das tarefas -> Finalizado	
+Aula #19.7 (Prática): Exibindo as tarefas cadastradas na tabela -> Finalizado	
+Aula #19.8 (Prática): Excluindo tarefas	-> Finalizado
+Aula #19.9 (Prática): Confirmando a exclusão e exibindo um Toast -> Finalizado	
+Aula #19.10 (Prática): Mostrando uma mensagem quando não existem tarefas -> Finalizado	
+Aula #19.11 (Prática): Atualizando o status de uma tarefa -> Finalizado
+Aula #19.12 (Prática): Riscando tarefas já realizadas -> Finalizado
 Aula #19.13 (Prática): Redirecionando para a tela de criação de tarefas	
 Aula #19.14 (Prática): Criando o formulário de cadastro de tarefa	
 Aula #19.15 (Prática): Submetendo o formulário e fazendo redirect para a lista de tarefas	
