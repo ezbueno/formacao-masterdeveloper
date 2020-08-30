@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import NavBar from './Components/NavBar';
+import { BrowserRouter } from 'react-router-dom';
+import TaskListTable from './Components/TaskListTable';
 
 class App extends Component {
   //constructor(props) {
@@ -7,9 +9,14 @@ class App extends Component {
   //}
   render() {
     return (
-      <div className="App">
-        <NavBar/>
-      </div>
+      <BrowserRouter>
+        <div className="App">
+          <NavBar/>
+          <div className="container" style={{marginTop: 20}}>
+            <TaskListTable/>
+          </div>
+        </div>
+      </BrowserRouter>
     );
   }
 }
