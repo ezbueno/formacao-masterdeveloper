@@ -283,12 +283,12 @@ Aula #19.9 (Prática): Confirmando a exclusão e exibindo um Toast -> Finalizado
 Aula #19.10 (Prática): Mostrando uma mensagem quando não existem tarefas -> Finalizado	
 Aula #19.11 (Prática): Atualizando o status de uma tarefa -> Finalizado
 Aula #19.12 (Prática): Riscando tarefas já realizadas -> Finalizado
-Aula #19.13 (Prática): Redirecionando para a tela de criação de tarefas	
-Aula #19.14 (Prática): Criando o formulário de cadastro de tarefa	
-Aula #19.15 (Prática): Submetendo o formulário e fazendo redirect para a lista de tarefas	
-Aula #19.16 (Prática): Editando uma tarefa já cadastrada	
-Aula #19.17 (Prática): Alterando o nome do botão de acordo com a funcionalidade	
-Aula #19.18 (Prática): Cancelando o cadastro ou edição de uma tarefa
+Aula #19.13 (Prática): Redirecionando para a tela de criação de tarefas	-> Finalizado
+Aula #19.14 (Prática): Criando o formulário de cadastro de tarefa -> Finalizado	
+Aula #19.15 (Prática): Submetendo o formulário e fazendo redirect para a lista de tarefas -> Finalizado	
+Aula #19.16 (Prática): Editando uma tarefa já cadastrada -> Finalizado	
+Aula #19.17 (Prática): Alterando o nome do botão de acordo com a funcionalidade	-> Finalizado
+Aula #19.18 (Prática): Cancelando o cadastro ou edição de uma tarefa -> Finalizado
 
 
 20) BlueTasks: Implementação do Back-End com Spring Boot
