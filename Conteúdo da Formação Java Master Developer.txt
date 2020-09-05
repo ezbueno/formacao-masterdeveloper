@@ -293,37 +293,37 @@ Aula #19.18 (Prática): Cancelando o cadastro ou edição de uma tarefa -> Final
 
 20) BlueTasks: Implementação do Back-End com Spring Boot
 Neste módulo é a vez do back-end da aplicação BlueTasks. Você vai implementar todas as funcionalidades necessárias usando Java e Spring Boot.	
-Aula #20.1 (Prática): Criando o projeto no Spring Boot	
-Aula #20.2 (Prática): Configurando o banco de dados da aplicação	
-Aula #20.3 (Prática): Criando as entidades e os repositórios	
-Aula #20.4 (Prática): Criando os dados de teste	
-Aula #20.5 (Prática): Expondo os repositórios via web services	
-Aula #20.6 (Prática): Expondo o ID das tarefas via web services	
-Aula #20.7 (Prática): Removendo a exportação do repositório de usuários	
-Aula #20.8 (Prática): Adicionando as anotações do Java Validator nas entidades	
-Aula #20.9 (Prática): Configurando o processo de validação para retornar os erros corretamente	
-Aula #20.10 (Prática): Mudando a forma como os erros são retornados	
-Aula #20.11 (Prática): Validando tarefas duplicadas	
-Aula #20.12 (Prática): Logging no Spring Boot	
-Aula #20.13 (Prática): Configurando o CORS na aplicação	
-Aula #20.14 (Prática): Começando a configurar a segurança da aplicação	
-Aula #20.15 (Prática): Conhecendo a arquitetura da segurança usando JWT	
-Aula #20.16 (Prática): Criando o AuthenticationFilter - (Parte 1/2)
-Aula #20.17 (Prática): Criando o AuthorizationFilter - (Parte 2/2)
-Aula #20.18 (Prática): Configurando as diretrizes de segurança	
-Aula #20.19 (Prática): Testando o mecanismo de segurança da aplicação	
-Aula #20.20 (Prática): Retornando apenas as tarefas de um usuário específico	
-Aula #20.21 (Prática): Atribuindo um usuário a uma tarefa	
-Aula #20.22 (Prática): Escondendo informações da tarefa
+Aula #20.1 (Prática): Criando o projeto no Spring Boot -> Finalizado
+Aula #20.2 (Prática): Configurando o banco de dados da aplicação -> Finalizado	
+Aula #20.3 (Prática): Criando as entidades e os repositórios -> Finalizado	
+Aula #20.4 (Prática): Criando os dados de teste -> Finalizado
+Aula #20.5 (Prática): Expondo os repositórios via web services -> Finalizado	
+Aula #20.6 (Prática): Expondo o ID das tarefas via web services -> Finalizado
+Aula #20.7 (Prática): Removendo a exportação do repositório de usuários -> Finalizado
+Aula #20.8 (Prática): Adicionando as anotações do Java Validator nas entidades -> Finalizado	
+Aula #20.9 (Prática): Configurando o processo de validação para retornar os erros corretamente -> Finalizado
+Aula #20.10 (Prática): Mudando a forma como os erros são retornados -> Finalizado	
+Aula #20.11 (Prática): Validando tarefas duplicadas -> Finalizado
+Aula #20.12 (Prática): Logging no Spring Boot -> Finalizado
+Aula #20.13 (Prática): Configurando o CORS na aplicação -> Finalizado	
+Aula #20.14 (Prática): Começando a configurar a segurança da aplicação -> Finalizado
+Aula #20.15 (Prática): Conhecendo a arquitetura da segurança usando JWT	-> Finalizado
+Aula #20.16 (Prática): Criando o AuthenticationFilter - (Parte 1/2) -> Finalizado
+Aula #20.17 (Prática): Criando o AuthorizationFilter - (Parte 2/2) -> Finalizado
+Aula #20.18 (Prática): Configurando as diretrizes de segurança -> Finalizado
+Aula #20.19 (Prática): Testando o mecanismo de segurança da aplicação -> Finalizado
+Aula #20.20 (Prática): Retornando apenas as tarefas de um usuário específico -> Finalizado	
+Aula #20.21 (Prática): Atribuindo um usuário a uma tarefa -> Finalizado	
+Aula #20.22 (Prática): Escondendo informações da tarefa -> Finalizado
 
 
 21) BlueTasks: Integrando Front-End & Back-End
 Depois de implementar o front-end (em React) e o back-end (em Java), chegou a hora de unir as duas partes e finalizar o desenvolvimento da aplicação BlueTasks.	
-Aula #21.1 (Prática): Criando o componente Alert	
-Aula #21.2 (Prática): Criando o formulário de login	
-Aula #21.3 (Prática): Adicionando constantes via arquivos .dev & constants.js	
-Aula #21.4 (Prática): Executando o serviço de login no back-end	
-Aula #21.5 (Prática): Controlando o acesso às páginas	
+Aula #21.1 (Prática): Criando o componente Alert -> Finalizado	
+Aula #21.2 (Prática): Criando o formulário de login -> Finalizado
+Aula #21.3 (Prática): Adicionando constantes via arquivos .dev & constants.js -> Finalizado
+Aula #21.4 (Prática): Executando o serviço de login no back-end	-> Finalizado
+Aula #21.5 (Prática): Controlando o acesso às páginas 
 Aula #21.6 (Prática): Exibindo um spinner para indicar processamento	
 Aula #21.7 (Prática): Trazendo a lista de tarefas do back-end	
 Aula #21.8 (Prática): Formatando as datas da tarefas	
@@ -362,8 +362,21 @@ Aula #22.18 (Prática): Finalizando a implementação do BlueTasks
 
 
 23) Clean Code: Deixando seu Código Limpo e com Alta Qualidade
-Você vai aprender, na prática, estratégias voltadas ao Clean Code, a fim de que seus códigos sejam sempre limpos e fácies de manter.
-Em breve
+Você vai aprender, na prática, estratégias voltadas ao Clean Code, a fim de que seus códigos sejam sempre limpos e fáceis de manter.
+Aula #23.1 (Prática): Bem-vindo ao mundo do código limpo
+Aula #23.2 (Prática): Integrando o SonarLint no Eclipse
+Aula #23.3 (Prática): Conhecendo melhor o SonarLint
+Aula #23.4 (Prática): O código ruim: odores e mau cheiro
+Aula #23.5 (Prática): O código bom: tacada de mestre
+Aula #23.6 (Prática): Anti-padrões
+Aula #23.7 (Prática): A importância dos nomes significativos
+Aula #23.8 (Prática): Comentários: não caia nessa armadilha
+Aula #23.9 (Prática): Classes e métodos: utilize-os a seu favor
+Aula #23.10 (Prática): Code review e code refactoring
+Aula #23.11 (Prática): Formatação e legibilidade de código
+Aula #23.12 (Prática): Como se livrar da "dívida técnica"?
+Aula #23.13 (Prática): Testes unitários: garanta ainda mais a qualidade do código
+Aula #23.14 (Prática): Não tenha medo de tornar o seu código limpo
 
 
 24) As habilidades que você deve desenvolver
