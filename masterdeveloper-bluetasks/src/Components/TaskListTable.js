@@ -4,6 +4,8 @@ import { ToastContainer, toast } from 'react-toastify';
 import "react-toastify/dist/ReactToastify.css";
 import { Redirect } from 'react-router-dom';
 import Alert from './Alert';
+import AuthService from '../api/AuthService';
+import Spinner from './Spinner';
 
 class TaskListTable extends Component {
     constructor(props) {
@@ -11,7 +13,8 @@ class TaskListTable extends Component {
 
         this.state = {
             tasks: [],
-            editId: 0
+            editId: 0,
+            loading: false
         }
 
         this.onDeleteHandler = this.onDeleteHandler.bind(this);
@@ -46,24 +49,29 @@ class TaskListTable extends Component {
     }
 
     render() {
+        if (!AuthService.isAuthenticated()) {
+            return <Redirect to="/login" />
+        }
+
         if (this.state.editId > 0) {
             return <Redirect to={`/form/${this.state.editId}`}/>
         }
 
         return (
-            <>
-                <Alert message="Este é um alerta de teste!"/>
-                <table className="table table-striped">
-                    <TableHeader />
-                    {this.state.tasks.length > 0 ? 
-                        <TableBody tasks={this.state.tasks} 
-                                   onDelete={this.onDeleteHandler}
-                                   onEdit={this.onEditHandler}
-                                   onStatusChange={this.onStatusChangeHandler}/>
-                                   :
-                                   <EmptyTableBody/>
-                    }
-                </table>
+            <>  
+                {this.state.loading ? <Spinner/> :
+                    <table className="table table-striped">
+                        <TableHeader />
+                        {this.state.tasks.length > 0 ? 
+                            <TableBody tasks={this.state.tasks} 
+                                    onDelete={this.onDeleteHandler}
+                                    onEdit={this.onEditHandler}
+                                    onStatusChange={this.onStatusChangeHandler}/>
+                                    :
+                                    <EmptyTableBody/>
+                        }
+                    </table>
+                }
                 <ToastContainer autoClose={1500}/>
             </>
         );

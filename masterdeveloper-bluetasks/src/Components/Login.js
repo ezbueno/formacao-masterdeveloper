@@ -39,6 +39,10 @@ constructor(props) {
     }
 
     render() {
+        if (AuthService.isAuthenticated()) {
+            return <Redirect to="/" />
+        }
+
         if (this.state.loggedIn) {
             return <Redirect to="/" />
         }
