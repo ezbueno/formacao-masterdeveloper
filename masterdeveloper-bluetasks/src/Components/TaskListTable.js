@@ -14,7 +14,8 @@ class TaskListTable extends Component {
         this.state = {
             tasks: [],
             editId: 0,
-            loading: false
+            loading: false,
+            alert: null
         }
 
         this.onDeleteHandler = this.onDeleteHandler.bind(this);
@@ -27,7 +28,19 @@ class TaskListTable extends Component {
     }
 
     listTasks() {
-        this.setState({ tasks: TaskService.list() });
+        if (!AuthService.isAuthenticated) {
+            return;
+        }
+
+        this.setState({loading: true});
+        TaskService.list(
+            tasks => this.setState({tasks: tasks, loading: false}),
+            error => this.setErrorState(error)
+        );
+    }
+
+    setErrorState(error) {
+       this.setState({alert: `Erro na requisição: ${error.message}`, loading: false}) 
     }
 
     onDeleteHandler(id) {
@@ -59,16 +72,19 @@ class TaskListTable extends Component {
 
         return (
             <>  
+                <h1>Lista de Tarefas</h1>
+                {this.state.alert != null ? <Alert message={this.state.alert}/> : "" }
                 {this.state.loading ? <Spinner/> :
                     <table className="table table-striped">
-                        <TableHeader />
+                        <TableHeader/>
                         {this.state.tasks.length > 0 ? 
-                            <TableBody tasks={this.state.tasks} 
-                                    onDelete={this.onDeleteHandler}
-                                    onEdit={this.onEditHandler}
-                                    onStatusChange={this.onStatusChangeHandler}/>
-                                    :
-                                    <EmptyTableBody/>
+                            <TableBody 
+                                tasks={this.state.tasks} 
+                                onDelete={this.onDeleteHandler}
+                                onEdit={this.onEditHandler}
+                                onStatusChange={this.onStatusChangeHandler}/>
+                            :
+                            <EmptyTableBody/>
                         }
                     </table>
                 }

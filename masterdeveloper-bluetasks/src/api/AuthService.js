@@ -21,7 +21,7 @@ class AuthService {
     }
 
     isAuthenticated() {
-        return this.getJWTToken() !== null;
+        return this.getJWTToken() != null;
     }
 }
 

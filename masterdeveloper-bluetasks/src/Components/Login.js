@@ -50,7 +50,7 @@ constructor(props) {
         return (
             <div>
                 <h1>Login</h1>
-                {this.state.alert !== null ? <Alert message={this.state.alert}/> : ""}
+                {this.state.alert != null ? <Alert message={this.state.alert}/> : ""}
                 <form onSubmit={this.handleSubmit}>
                     <div className="form-group">
                         <label htmlFor="username">Usuário</label>
