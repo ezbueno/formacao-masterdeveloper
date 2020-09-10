@@ -26,12 +26,12 @@ public class Task {
 	@GeneratedValue
 	private Integer id;
 
-	@NotEmpty(message = "A descrição da tarefa é obrigatória!")
-	@Length(min = 3, max = 60, message = "O tamanho da tarefa é inválido!")
+	@NotEmpty(message = "A descrição da tarefa é obrigatória")
+	@Length(min = 3, max = 60, message = "O tamanho da tarefa é inválido")
 	private String description;
 
-	@NotNull(message = "A data da tarefa é obrigatória!")
-	@FutureOrPresent(message = "A data da tarefa não pode estar no passado!")
+	@NotNull(message = "A data da tarefa é obrigatória")
+	@FutureOrPresent(message = "A data da tarefa não pode estar no passado")
 	private LocalDate whenToDo;
 
 	private Boolean done = false;

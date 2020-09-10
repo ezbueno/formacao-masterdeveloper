@@ -31,7 +31,7 @@ public class MasterdeveloperBluetasksBackendApplication implements RepositoryRes
 		.allowedOrigins("*")
 		.allowedMethods("GET", "POST", "PUT", "DELETE");
 	
-		logger.info("Repository CORS setup... OK!");
+		logger.info("Repository CORS setup...Ok!");
 	}
 	
 	@Bean

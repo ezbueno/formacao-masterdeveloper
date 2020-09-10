@@ -30,7 +30,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter implements W
 		.sessionManagement()
 			.sessionCreationPolicy(SessionCreationPolicy.STATELESS);
 		
-		logger.info("Security setup... OK!");
+		logger.info("Security setup...Ok!");
 	}
 	
 	@Override

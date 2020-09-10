@@ -24,7 +24,6 @@ public class TaskListener {
 			if (appUser == null) {
 				throw new EntityNotFoundException("O usuário " + username + " não foi encontrado!");
 			}
-			
 			task.setAppUser(appUser);
 		}
 	}

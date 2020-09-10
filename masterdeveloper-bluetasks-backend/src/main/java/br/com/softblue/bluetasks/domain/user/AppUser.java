@@ -23,7 +23,6 @@ public class AppUser {
 	@NotEmpty(message = "O nome de exibição é obrigatório!")
 	private String displayName;
 	
-	
 	public AppUser() {
 	}
 
