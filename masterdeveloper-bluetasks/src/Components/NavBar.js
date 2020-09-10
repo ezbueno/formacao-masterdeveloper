@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import NavBarItem from './NavBarItem';
 import { APP_NAME } from '../constants';
+import AuthService from '../api/AuthService';
 
 class NavBar extends Component {
     constructor(props) {
@@ -14,6 +15,7 @@ class NavBar extends Component {
         }
 
         this.onClickHandler = this.onClickHandler.bind(this);
+        this.onLogoutHandler = this.onLogoutHandler.bind(this);
     }
 
     onClickHandler(itemClicked) {
@@ -28,6 +30,11 @@ class NavBar extends Component {
         })
 
         this.setState({items});
+    }
+
+    onLogoutHandler() {
+        AuthService.logout();
+        this.props.onLinkClick();
     }
 
     render() {
@@ -46,7 +53,18 @@ class NavBar extends Component {
                                     item={i}
                                     onClick={this.onClickHandler} />)
                             }
+                            {AuthService.isAuthenticated() ? 
+                                <NavBarItem 
+                                    item={{name: "Logout", active: false, href: "#"}}
+                                    onClick={this.onLogoutHandler}/>
+                                : ""
+                            }
                         </div>
+                        <span className="navbar-text">
+                            {AuthService.isAuthenticated() ?
+                                `Olá, ${AuthService.getJWTTokenData().displayName}!` : ""
+                            }
+                        </span>
                     </div>
                 </nav>
             </div>

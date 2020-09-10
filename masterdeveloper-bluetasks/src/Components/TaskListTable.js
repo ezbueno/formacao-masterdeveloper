@@ -6,6 +6,7 @@ import { Redirect } from 'react-router-dom';
 import Alert from './Alert';
 import AuthService from '../api/AuthService';
 import Spinner from './Spinner';
+import Moment from 'react-moment';
 
 class TaskListTable extends Component {
     constructor(props) {
@@ -28,7 +29,7 @@ class TaskListTable extends Component {
     }
 
     listTasks() {
-        if (!AuthService.isAuthenticated) {
+        if (!AuthService.isAuthenticated()) {
             return;
         }
 
@@ -45,9 +46,12 @@ class TaskListTable extends Component {
 
     onDeleteHandler(id) {
         if (window.confirm("Deseja mesmo excluir esta tarefa?")) {
-            TaskService.delete(id);
-            this.listTasks();
-            toast.success("Tarefa excluída!", {position: toast.POSITION.BOTTOM_LEFT})
+            TaskService.delete(id, 
+                () => {
+                    this.listTasks();
+                    toast.success("Tarefa excluída!", {position: toast.POSITION.BOTTOM_LEFT})
+                },
+                error => this.setErrorState(error));
         }
     }
 
@@ -57,8 +61,14 @@ class TaskListTable extends Component {
 
     onStatusChangeHandler(task) {
        task.done = !task.done;
-       TaskService.save(task);
-       this.listTasks();
+
+       TaskService.save(task,
+            () => {
+                const tasks = this.state.tasks.map(t => t.id !== task.id ? t : task);
+                this.setState({tasks : tasks});
+            },
+            error => this.setErrorState(error)
+        );
     }
 
     render() {
@@ -117,7 +127,10 @@ const TableBody = (props) => {
                                onChange={() => props.onStatusChange(task)}/>
                     </td>
                     <td>{task.done ? <s>{task.description}</s> : task.description}</td>
-                    <td>{task.done ? <s>{task.whenToDo}</s> : task.whenToDo}</td>
+                    <td>{task.done ? <s><Moment format="DD/MM/YYYY">{task.whenToDo}</Moment>
+                                    </s> : <Moment format="DD/MM/YYYY">{task.whenToDo}</Moment>
+                        }
+                    </td>
                     <td>
                         <input 
                             type="button" 
