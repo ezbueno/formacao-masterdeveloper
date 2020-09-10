@@ -323,20 +323,20 @@ Aula #21.1 (Prática): Criando o componente Alert -> Finalizado
 Aula #21.2 (Prática): Criando o formulário de login -> Finalizado
 Aula #21.3 (Prática): Adicionando constantes via arquivos .dev & constants.js -> Finalizado
 Aula #21.4 (Prática): Executando o serviço de login no back-end	-> Finalizado
-Aula #21.5 (Prática): Controlando o acesso às páginas 
-Aula #21.6 (Prática): Exibindo um spinner para indicar processamento	
-Aula #21.7 (Prática): Trazendo a lista de tarefas do back-end	
-Aula #21.8 (Prática): Formatando as datas da tarefas	
-Aula #21.9 (Prática): Excluindo as tarefas no back-end	
-Aula #21.10 (Prática): Carregando uma tarefa do back-end	
-Aula #21.11 (Prática): Alterando os dados de uma tarefa no back-end	
-Aula #21.12 (Prática): Colocando um spinner no botão durante a gravação de uma tarefa	
-Aula #21.13 (Prática): Testando a gravação de novas tarefas no back-end	
-Aula #21.14 (Prática): Fazendo o botão de logout aparecer	
-Aula #21.15 (Prática): Implementando a funcionalidade de logout	
-Aula #21.16 (Prática): Exibindo o nome do usuário logado na NavBar	
-Aula #21.17 (Prática): Corrigindo os bugs que ficaram para trás	
-Aula #21.18 (Prática): Preparando o front-end e back-end para publicação
+Aula #21.5 (Prática): Controlando o acesso às páginas -> Finalizado
+Aula #21.6 (Prática): Exibindo um spinner para indicar processamento -> Finalizado	
+Aula #21.7 (Prática): Trazendo a lista de tarefas do back-end -> Finalizado	
+Aula #21.8 (Prática): Formatando as datas da tarefas -> Finalizado	
+Aula #21.9 (Prática): Excluindo as tarefas no back-end -> Finalizado
+Aula #21.10 (Prática): Carregando uma tarefa do back-end -> Finalizado	
+Aula #21.11 (Prática): Alterando os dados de uma tarefa no back-end -> Finalizado	
+Aula #21.12 (Prática): Colocando um spinner no botão durante a gravação de uma tarefa -> Finalizado	
+Aula #21.13 (Prática): Testando a gravação de novas tarefas no back-end	-> Finalizado
+Aula #21.14 (Prática): Fazendo o botão de logout aparecer -> Finalizado	
+Aula #21.15 (Prática): Implementando a funcionalidade de logout	-> Finalizado
+Aula #21.16 (Prática): Exibindo o nome do usuário logado na NavBar -> Finalizado	
+Aula #21.17 (Prática): Corrigindo os bugs que ficaram para trás	-> Finalizado
+Aula #21.18 (Prática): Preparando o front-end e back-end para publicação 
 
 
 22) BlueTasks: Front-End Usando React Hooks
