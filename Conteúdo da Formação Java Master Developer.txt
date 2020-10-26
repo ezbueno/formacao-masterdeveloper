@@ -336,14 +336,14 @@ Aula #21.14 (Prática): Fazendo o botão de logout aparecer -> Finalizado
 Aula #21.15 (Prática): Implementando a funcionalidade de logout	-> Finalizado
 Aula #21.16 (Prática): Exibindo o nome do usuário logado na NavBar -> Finalizado	
 Aula #21.17 (Prática): Corrigindo os bugs que ficaram para trás	-> Finalizado
-Aula #21.18 (Prática): Preparando o front-end e back-end para publicação 
+Aula #21.18 (Prática): Preparando o front-end e back-end para publicação -> Finalizado
 
 
 22) BlueTasks: Front-End Usando React Hooks
 Neste módulo você vai aprender a usar a API de Hooks do React e vai migrar todo o front-end do BlueTasks para o uso de hooks.	
-Aula #22.1 (Prática): Introdução do uso dos Hooks no React: useState e useEffect	
-Aula #22.2 (Prática): Criando um hook customizado	
-Aula #22.3 (Prática): Mais um exemplo de hook: capurando a movimentação do mouse na tela	
+Aula #22.1 (Prática): Introdução do uso dos Hooks no React: useState e useEffect -> Finalizado	
+Aula #22.2 (Prática): Criando um hook customizado -> Finalizado	
+Aula #22.3 (Prática): Mais um exemplo de hook: capurando a movimentação do mouse na tela -> Finalizado	
 Aula #22.4 (Prática): Mais um exemplo de hook: contador numérico	
 Aula #22.5 (Prática): Compartilhando estados com o useContext	
 Aula #22.6 (Prática): Criando o hook useAuth para autenticação - (Parte 1/2)	
