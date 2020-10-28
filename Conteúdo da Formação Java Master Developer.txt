@@ -344,13 +344,13 @@ Neste módulo você vai aprender a usar a API de Hooks do React e vai migrar tod
 Aula #22.1 (Prática): Introdução do uso dos Hooks no React: useState e useEffect -> Finalizado	
 Aula #22.2 (Prática): Criando um hook customizado -> Finalizado	
 Aula #22.3 (Prática): Mais um exemplo de hook: capurando a movimentação do mouse na tela -> Finalizado	
-Aula #22.4 (Prática): Mais um exemplo de hook: contador numérico	
-Aula #22.5 (Prática): Compartilhando estados com o useContext	
-Aula #22.6 (Prática): Criando o hook useAuth para autenticação - (Parte 1/2)	
-Aula #22.7 (Prática): Criando o hook useAuth para autenticação - (Parte 2/2)
-Aula #22.8 (Prática): Criando o contexto de autenticação	
-Aula #22.9 (Prática): Formulário de login usando hooks	
-Aula #22.10 (Prática): Criando o hook useTasks para buscar as tarefas no back-end	
+Aula #22.4 (Prática): Mais um exemplo de hook: contador numérico -> Finalizado	
+Aula #22.5 (Prática): Compartilhando estados com o useContext -> Finalizado	
+Aula #22.6 (Prática): Criando o hook useAuth para autenticação - (Parte 1/2) -> Finalizado
+Aula #22.7 (Prática): Criando o hook useAuth para autenticação - (Parte 2/2) -> Finalizado
+Aula #22.8 (Prática): Criando o contexto de autenticação -> Finalizado	
+Aula #22.9 (Prática): Formulário de login usando hooks -> Finalizado	
+Aula #22.10 (Prática): Criando o hook useTasks para buscar as tarefas no back-end -> Finalizado	
 Aula #22.11 (Prática): Listagem de tarefas usando hooks	
 Aula #22.12 (Prática): Criando o hook useNavBarItems para gerenciar a NavBar	
 Aula #22.13 (Prática): Adaptando a NavBar para o uso de hooks	
