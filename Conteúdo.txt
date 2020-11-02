@@ -363,13 +363,13 @@ Aula #22.18 (Prática): Finalizando a implementação do BlueTasks -> Finalizado
 
 23) Clean Code: Deixando seu Código Limpo e com Alta Qualidade
 Você vai aprender, na prática, estratégias voltadas ao Clean Code, a fim de que seus códigos sejam sempre limpos e fáceis de manter.
-Aula #23.1 (Prática): Bem-vindo ao mundo do código limpo
-Aula #23.2 (Prática): Integrando o SonarLint no Eclipse
-Aula #23.3 (Prática): Conhecendo melhor o SonarLint
-Aula #23.4 (Prática): O código ruim: odores e mau cheiro
-Aula #23.5 (Prática): O código bom: tacada de mestre
-Aula #23.6 (Prática): Anti-padrões
-Aula #23.7 (Prática): A importância dos nomes significativos
+Aula #23.1 (Prática): Bem-vindo ao mundo do código limpo -> Finalizado
+Aula #23.2 (Prática): Integrando o SonarLint no Eclipse -> Finalizado
+Aula #23.3 (Prática): Conhecendo melhor o SonarLint -> Finalizado
+Aula #23.4 (Prática): O código ruim: odores e mau cheiro -> Finalizado
+Aula #23.5 (Prática): O código bom: tacada de mestre -> Finalizado
+Aula #23.6 (Prática): Anti-padrões -> Finalizado
+Aula #23.7 (Prática): A importância dos nomes significativos -> Finalizado
 Aula #23.8 (Prática): Comentários: não caia nessa armadilha
 Aula #23.9 (Prática): Classes e métodos: utilize-os a seu favor
 Aula #23.10 (Prática): Code review e code refactoring
