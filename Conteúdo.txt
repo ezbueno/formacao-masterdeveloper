@@ -370,18 +370,18 @@ Aula #23.4 (Prática): O código ruim: odores e mau cheiro -> Finalizado
 Aula #23.5 (Prática): O código bom: tacada de mestre -> Finalizado
 Aula #23.6 (Prática): Anti-padrões -> Finalizado
 Aula #23.7 (Prática): A importância dos nomes significativos -> Finalizado
-Aula #23.8 (Prática): Comentários: não caia nessa armadilha
-Aula #23.9 (Prática): Classes e métodos: utilize-os a seu favor
-Aula #23.10 (Prática): Code review e code refactoring
-Aula #23.11 (Prática): Formatação e legibilidade de código
-Aula #23.12 (Prática): Como se livrar da "dívida técnica"?
-Aula #23.13 (Prática): Testes unitários: garanta ainda mais a qualidade do código
-Aula #23.14 (Prática): Não tenha medo de tornar o seu código limpo
+Aula #23.8 (Prática): Comentários: não caia nessa armadilha -> Finalizado
+Aula #23.9 (Prática): Classes e métodos: utilize-os a seu favor -> Finalizado
+Aula #23.10 (Prática): Code review e code refactoring -> Finalizado
+Aula #23.11 (Prática): Formatação e legibilidade de código -> Finalizado
+Aula #23.12 (Prática): Como se livrar da "dívida técnica"? -> Finalizado
+Aula #23.13 (Prática): Testes unitários: garanta ainda mais a qualidade do código -> Finalizado
+Aula #23.14 (Prática): Não tenha medo de tornar o seu código limpo -> Finalizado
 
 
 24) As habilidades que você deve desenvolver
 Conheça as habilidades que vão levar você ao próximo nível.	
-Aula #24.1 (Prática): As habilidades que vão te levar ao sucesso - (Parte 1/3)	
+Aula #24.1 (Prática): As habilidades que vão te levar ao sucesso - (Parte 1/3) -> Finalizado
 Aula #24.2 (Prática): As habilidades que vão te levar ao sucesso - (Parte 2/3)	
 Aula #24.3 (Prática): As habilidades que vão te levar ao sucesso - (Parte 3/3)	
 Aula #24.4 (Prática): A importância do inglês para a programação a para a sua vida	
